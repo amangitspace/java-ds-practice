@@ -3,7 +3,7 @@ public class LogicalOperators {
 
         int a =10;
         int b =10;
-        int c =30;
+        int c =40;
 
         System.out.println(a==b && a==c);
         System.out.println(a==b || a==c);
